@@ -11,7 +11,6 @@ u = 2510
 M0 = 2.8 * 10 ** 6
 m = 13.3 * 10 ** 3
 g = 9.81
-v = 0
-t = 0
+v, t = 0
 
 print(f"Velocity of Satrun V will reach 335 m/s after {satrun_speed(u, M0, m, g, v, t)} seconds")
