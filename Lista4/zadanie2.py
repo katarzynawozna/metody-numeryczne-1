@@ -9,4 +9,6 @@ def Newton(x, n):
 
 x = 32
 n = 5
-print(Newton(x, n)) #2
+
+print(Newton(x, n)) 
+#2
